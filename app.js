@@ -8,7 +8,7 @@ const port = 3000;
 // Create a connection to the database
 const db = mysql.createConnection({
     host: 'localhost',
-    user: 'root',
+    user: 'sreeja',
     password: 'Tinku@48',
     database: 'social_app'
 });
